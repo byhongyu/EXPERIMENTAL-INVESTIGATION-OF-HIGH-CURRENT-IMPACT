@@ -1,2 +1,2 @@
 # Conclusions
-In this study, a method has been pro[]
+In this study, a method has been proposed. taht
