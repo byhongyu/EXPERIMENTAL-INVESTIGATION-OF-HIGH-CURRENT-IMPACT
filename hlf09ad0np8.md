@@ -1,2 +1,2 @@
 # Conclusions
-In this study, a method has been proposed. that 
+In this study, a method has been proposed. that will
