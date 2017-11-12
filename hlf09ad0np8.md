@@ -1,2 +1,2 @@
 # Conclusions
-In this study, a method has bbee
+In this study, a method has been pro
