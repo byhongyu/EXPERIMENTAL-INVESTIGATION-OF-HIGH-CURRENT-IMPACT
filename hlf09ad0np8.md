@@ -1,2 +1,2 @@
 # Conclusions
-In this study, a me
+In this study, a method has 
