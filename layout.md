@@ -1,0 +1,6 @@
+beginfrontmatter__ad.tex
+sectionElectrical_ch.tex
+Table_dry_fiber_mate.tex
+subsection612_Experi.tex
+figures/high_current_setup
+subsection613_Typica.tex
